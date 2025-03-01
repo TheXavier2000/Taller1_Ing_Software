@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Gran Britalia</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="info">
+        <h1>Barrio Tunal</h1>
+        <p> El barrio Tunal es un barrio de la localidad de Tunjuelito en Bogotá, Colombia.</p>
+    </div>
+    <div class="btnDiv">
+        <button class="button" id="btnTrees">Árboles</button>
+    </div>
+</body>
+<script src="{{ url_for('static', filename='program.js') }}"></script>
+</html>
