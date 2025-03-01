@@ -1,2 +1,8 @@
-# Taller1_Ing_Software
-    Bienvenidos al portal web del barrio Tunal En este repositorio encontraran los archivos para:  ver el poligono del barrio ver la ubicacion de los arboles del barrio calcular las distancias entre arboles Descargar la distancia en un archivo PDF
+# Bienvenidos al portal web del barrio Tunal  
+En este repositorio encontrarán los archivos para:  
+
+- Ver el polígono del barrio  
+- Ver la ubicación de los árboles del barrio  
+- Calcular las distancias entre árboles  
+- Descargar la distancia en un archivo PDF  
+
